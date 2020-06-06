@@ -1,0 +1,5 @@
+node_modules
+uploads/images_points/*
+!uploads/images_points/.gitkeep
+
+*.sqlite
